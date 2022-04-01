@@ -1,0 +1,34 @@
+[
+    {
+        "id":1, 
+        "url":"https://res.cloudinary.com/practicaldev/image/fetch/s--_HBZhuhF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nweeqf97l2md3tlqkjyt.jpg"
+    },
+    {
+        "id":2, 
+        "url":"https://ravendigit.al/wp-content/uploads/2019/07/0_HICLyAdNSIyT0ODU.jpg"
+    },
+    {
+        "id":3, 
+        "url":"https://axiomq.com/wp-content/uploads/2020/05/developer-3.jpg"
+    },
+    {
+        "id":4, 
+        "url":"https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg"
+    },
+    {
+        "id":5, 
+        "url":"https://www.thebalancecareers.com/thmb/2lwU1xNfCAav1sxYrPhyUNwoqlA=/1333x1000/smart/filters:no_upscale()/software-developer-job-description-salary-and-skills-2061833-Final_HL-7aa5ed68b68744c799c335ba344ec9d4.png"
+    },
+    {
+        "id":6, 
+        "url":"https://www.elmhurst.edu/wp-content/uploads/2019/11/software-developer-vs-software-engineer-illustration.jpg"
+    },
+    {
+        "id":7, 
+        "url":"https://insights.dice.com/wp-content/uploads/2020/04/shutterstock_594103883.jpg"
+    },
+    {
+        "id":8, 
+        "url":"https://images.unsplash.com/photo-1522252234503-e356532cafd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGV2ZWxvcGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    }
+]
